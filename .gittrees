@@ -12,3 +12,8 @@
 	path   = pack/plugin/opt/night-and-day
 	url    = https://github.com/haystackandroid/night-and-day
 	branch = master
+
+[subtree "vim-matchit"]
+	path   = pack/dist/start/vim-matchit
+	url    = https://github.com/adelarsq/vim-matchit
+	branch = master
