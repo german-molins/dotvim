@@ -62,3 +62,8 @@
 	path   = pack/plugin/opt/auto-pairs
 	url    = https://github.com/jiangmiao/auto-pairs
 	branch = master
+
+[subtree "bullets.vim"]
+	path   = pack/plugin/opt/bullets.vim
+	url    = https://github.com/dkarter/bullets.vim
+	branch = master
