@@ -32,3 +32,8 @@
 	path   = pack/plugin/start/vim-surround
 	url    = https://github.com/tpope/vim-surround
 	branch = master
+
+[subtree "restore-view"]
+	path   = pack/plugin/start/restore-view
+	url    = https://github.com/vim-scripts/restore_view.vim
+	branch = master
