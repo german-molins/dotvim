@@ -67,3 +67,8 @@
 	path   = pack/plugin/opt/bullets.vim
 	url    = https://github.com/dkarter/bullets.vim
 	branch = master
+
+[subtree "julia-vim"]
+	path   = pack/syntax/start/julia-vim
+	url    = https://github.com/JuliaEditorSupport/julia-vim
+	branch = master
