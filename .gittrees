@@ -42,3 +42,8 @@
 	path   = pack/plugin/opt/vim-repeat
 	url    = https://github.com/tpope/vim-repeat
 	branch = master
+
+[subtree "fzf"]
+	path   = pack/plugin/start/fzf
+	url    = https://github.com/junegunn/fzf.git
+	branch = master
