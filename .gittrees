@@ -47,3 +47,8 @@
 	path   = pack/plugin/start/fzf
 	url    = https://github.com/junegunn/fzf.git
 	branch = master
+
+[subtree "repeatable-motions"]
+	path   = pack/plugin/opt/repeatable-motions
+	url    = https://github.com/vim-scripts/repeatable-motions.vim
+	branch = master
