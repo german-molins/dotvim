@@ -2,3 +2,8 @@
 	path   = pack/colors/start/vim-colors-solarized
 	url    = https://github.com/altercation/vim-colors-solarized.git
 	branch = master
+
+[subtree "AfterColors.vim"]
+	path   = pack/plugin/start/AfterColors.vim
+	url    = https://github.com/vim-scripts/AfterColors.vim
+	branch = master
