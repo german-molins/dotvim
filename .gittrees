@@ -27,3 +27,8 @@
 	path   = pack/plugin/start/vim-commentary
 	url    = https://github.com/tpope/vim-commentary
 	branch = master
+
+[subtree "vim-surround"]
+	path   = pack/plugin/start/vim-surround
+	url    = https://github.com/tpope/vim-surround
+	branch = master
