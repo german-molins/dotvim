@@ -1,0 +1,4 @@
+[subtree "vim-colors-solarized"]
+	path   = pack/colors/start/vim-colors-solarized
+	url    = https://github.com/altercation/vim-colors-solarized.git
+	branch = master
