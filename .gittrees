@@ -7,3 +7,8 @@
 	path   = pack/plugin/start/AfterColors.vim
 	url    = https://github.com/vim-scripts/AfterColors.vim
 	branch = master
+
+[subtree "night-and-day"]
+	path   = pack/plugin/opt/night-and-day
+	url    = https://github.com/haystackandroid/night-and-day
+	branch = master
