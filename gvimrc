@@ -5,6 +5,7 @@ set guioptions-=r
 set guioptions-=L
 
 syntax on
+colorscheme solarized
 
 " Default font is bold, except for empty, text or markdown filetypes.
 " Bug: Currently guifont does not have a local value, so opening a text or no ft
