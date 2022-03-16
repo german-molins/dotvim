@@ -17,3 +17,8 @@
 	path   = pack/dist/start/vim-matchit
 	url    = https://github.com/adelarsq/vim-matchit
 	branch = master
+
+[subtree "vim-python-matchit"]
+	path   = pack/plugin/start/vim-python-matchit
+	url    = https://github.com/voithos/vim-python-matchit
+	branch = master
