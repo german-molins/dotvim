@@ -57,3 +57,8 @@
 	path   = pack/plugin/start/nerdtree
 	url    = https://github.com/preservim/nerdtree
 	branch = master
+
+[subtree "auto-pairs"]
+	path   = pack/plugin/opt/auto-pairs
+	url    = https://github.com/jiangmiao/auto-pairs
+	branch = master
