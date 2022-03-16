@@ -22,3 +22,8 @@
 	path   = pack/plugin/start/vim-python-matchit
 	url    = https://github.com/voithos/vim-python-matchit
 	branch = master
+
+[subtree "vim-commentary"]
+	path   = pack/plugin/start/vim-commentary
+	url    = https://github.com/tpope/vim-commentary
+	branch = master
