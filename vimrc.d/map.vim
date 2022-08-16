@@ -21,6 +21,10 @@ nnoremap <silent> <Leader>b :b#<CR>
 nnoremap <C-+> "+gp
 nnoremap <C-*> "*gp
 
+" Put formatted current date.
+inoremap <silent> <M-d> <C-r>=strftime('%Y-%m-%d')<CR>
+nnoremap <silent> <M-d> :put =strftime('%Y-%m-%d')<CR>
+
 " -------------------------------------------------------------------
 " Recursive mappings for C-like indented blocks using surround.vim and filetype
 " autoindent
