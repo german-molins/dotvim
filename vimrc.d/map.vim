@@ -15,7 +15,10 @@ vnoremap / /\v
 nnoremap <silent> <Leader>l :ls<CR>
 nnoremap <silent> <CR> :wa<CR>
 nnoremap <BS> :xa<CR>
+
+" Buffers
 nnoremap <silent> <Leader>b :b#<CR>
+nnoremap <F10> :b <C-Z>
 
 " Put from primary selection and clipboard selection.
 nnoremap <C-+> "+gp

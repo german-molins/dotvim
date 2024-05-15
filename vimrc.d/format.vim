@@ -13,4 +13,3 @@ set relativenumber
 
 set formatoptions=tcqrn1j
 set backspace=indent,eol,start
-
