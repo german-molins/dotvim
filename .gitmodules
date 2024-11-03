@@ -2,8 +2,3 @@
 	path = pack/syntax/start/vim-latex
 	url = https://github.com/vim-latex/vim-latex
 	update = merge
-
-[submodule "YouCompleteMe"]
-	path = pack/complete/opt/YouCompleteMe
-	url = https://github.com/tabnine/YouCompleteMe
-	update = merge
